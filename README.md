@@ -47,9 +47,7 @@ Main database entities:
 
 ## 📊 Entity Relationship Diagram (ERD)
 
-<p align="center">
-    <img src="screenshots/er-diagram.png" alt="Football Database ER Diagram" width="900">
-</p>
+<img width="1258" height="658" alt="football_club-2022-02-02_22-18" src="https://github.com/user-attachments/assets/a49652c3-b110-42dd-80f0-2f9127c13610" />
 
 ---
 
